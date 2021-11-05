@@ -1,2 +1,3 @@
 # gosys
-Examples of using Go for tasks related to systems programming.
+A collection of examples of using Go for system programming tasks.
+
